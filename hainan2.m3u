@@ -1,20 +1,20 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml" catchup="default" catchup-days="7" catchup-source="http://10.0.0.1:7088/rtp/{group}:{port}?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
-http://10.0.0.1:8088/rtp/239.253.64.120:5140
+http://10.0.0.1:7088/rtp/239.253.64.120:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
-http://10.0.0.1:8088/rtp/239.253.64.195:5140
+http://10.0.0.1:7088/rtp/239.253.64.195:5140
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV3
-http://10.0.0.1:8088/rtp/239.253.64.244:5140
+http://10.0.0.1:7088/rtp/239.253.64.244:5140
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
-http://10.0.0.1:8088/rtp/239.253.64.196:5140
+http://10.0.0.1:7088/rtp/239.253.64.196:5140
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4欧洲
 
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4美洲
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
-http://10.0.0.1:8088/rtp/239.253.64.245:5140
+http://10.0.0.1:7088/rtp/239.253.64.245:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
-http://10.0.0.1:8088/rtp/239.253.64.100:5140
+http://10.0.0.1:7088/rtp/239.253.64.100:5140
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://10.0.0.1:7088/rtp/239.253.64.246:5140
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV7
